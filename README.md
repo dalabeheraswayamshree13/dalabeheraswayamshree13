@@ -70,4 +70,4 @@ Responsive personal website built using HTML, CSS, and JavaScript.
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dalabeheraswayamshree13&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dalabeheraswayamshree13&show_icons=true&theme=default)
