@@ -68,4 +68,5 @@ Responsive personal website built using HTML, CSS, and JavaScript.
 
 ---
 ## GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dalabeheraswayamshree13&layout=compact)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dalabeheraswayamshree13&show_icons=true&theme=default)
